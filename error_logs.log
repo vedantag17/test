@@ -1,0 +1,96 @@
+2025-10-18 00:24:41,777 - ERROR - NameError: name 'undefined_variable' is not defined
+2025-10-18 00:24:41,777 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-10-18 00:24:41,777 - ERROR - ZeroDivisionError: division by zero
+2025-10-18 00:24:41,777 - ERROR - ImportError: No module named 'nonexistent_module'
+2025-10-18 00:24:41,777 - ERROR - AttributeError: 'NoneType' object has no attribute 'some_method'
+2025-10-18 00:24:41,777 - ERROR - IndexError: list index out of range
+2025-10-18 00:24:41,777 - ERROR - KeyError: 'b'
+2025-10-18 00:24:41,777 - ERROR - ValueError: invalid literal for int() with base 10: 'not_a_number'
+2025-10-18 00:24:41,777 - ERROR - AssertionError: This assertion will fail
+2025-10-18 00:24:41,777 - ERROR - FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent_file.txt'
+2025-10-18 00:24:41,777 - ERROR - PermissionError: [Errno 13] Permission denied: '/root/secret.txt'
+2025-10-18 00:24:41,777 - ERROR - OSError: [Errno 2] No such file or directory: '/nonexistent/directory'
+2025-10-18 00:24:41,777 - ERROR - OverflowError: math range error
+2025-10-18 00:24:41,778 - ERROR - RecursionError: maximum recursion depth exceeded
+2025-10-18 00:24:41,778 - ERROR - RuntimeError: Custom runtime error
+2025-10-18 00:24:41,778 - ERROR - SystemExit: Exiting with error
+2025-10-18 00:24:41,778 - ERROR - MemoryError: 
+2025-10-18 00:24:41,778 - ERROR - UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-10-18 00:24:41,778 - ERROR - LookupError: 'missing'
+2025-10-18 00:24:41,778 - ERROR - ArithmeticError: integer division or modulo by zero
+2025-10-18 00:24:41,778 - ERROR - Buffer/TypeError: memoryview: invalid type for format 'i'
+2025-10-18 00:25:01,769 - ERROR - NameError: name 'undefined_variable' is not defined
+2025-10-18 00:25:01,769 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-10-18 00:25:01,769 - ERROR - ZeroDivisionError: division by zero
+2025-10-18 00:25:01,769 - ERROR - ImportError: No module named 'nonexistent_module'
+2025-10-18 00:25:01,769 - ERROR - AttributeError: 'NoneType' object has no attribute 'some_method'
+2025-10-18 00:25:01,769 - ERROR - IndexError: list index out of range
+2025-10-18 00:25:01,769 - ERROR - KeyError: 'b'
+2025-10-18 00:25:01,769 - ERROR - ValueError: invalid literal for int() with base 10: 'not_a_number'
+2025-10-18 00:25:01,769 - ERROR - AssertionError: This assertion will fail
+2025-10-18 00:25:01,769 - ERROR - FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent_file.txt'
+2025-10-18 00:25:01,769 - ERROR - PermissionError: [Errno 13] Permission denied: '/root/secret.txt'
+2025-10-18 00:25:01,769 - ERROR - OSError: [Errno 2] No such file or directory: '/nonexistent/directory'
+2025-10-18 00:25:01,769 - ERROR - OverflowError: math range error
+2025-10-18 00:25:01,770 - ERROR - RecursionError: maximum recursion depth exceeded
+2025-10-18 00:25:01,770 - ERROR - RuntimeError: Custom runtime error
+2025-10-18 00:25:01,770 - ERROR - SystemExit: Exiting with error
+2025-10-18 00:25:01,770 - ERROR - MemoryError: 
+2025-10-18 00:25:01,770 - ERROR - UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-10-18 00:25:01,770 - ERROR - LookupError: 'missing'
+2025-10-18 00:25:01,770 - ERROR - ArithmeticError: integer division or modulo by zero
+2025-10-18 00:25:01,770 - ERROR - Buffer/TypeError: memoryview: invalid type for format 'i'
+2025-10-18 00:25:01,859 - ERROR - ConnectionError: [Errno -2] Name or service not known
+2025-10-18 00:25:01,959 - ERROR - TimeoutError: Simulated timeout
+2025-10-18 00:25:01,960 - ERROR - ReferenceError-like: cannot access local variable 'sys' where it is not associated with a value
+2025-10-18 00:25:01,960 - ERROR - StopIteration: 
+2025-10-18 00:25:01,960 - ERROR - GeneratorExit occurred
+2025-10-18 00:25:01,961 - ERROR - NotImplementedError: This feature is not implemented
+2025-10-18 00:25:01,962 - ERROR - UnboundLocalError: cannot access local variable 'x' where it is not associated with a value
+2025-10-18 00:25:01,962 - ERROR - EnvironmentError/KeyError: 'NONEXISTENT_VAR'
+2025-10-18 00:25:01,962 - ERROR - IOError: [Errno 20] Not a directory: '/dev/null/nonexistent'
+2025-10-18 00:25:01,965 - ERROR - EOFError: Ran out of input
+2025-10-18 00:25:01,967 - ERROR - CompressionError/FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent.gz'
+2025-10-18 00:25:01,967 - ERROR - StructError: unpack requires a buffer of 4 bytes
+2025-10-18 00:25:10,674 - ERROR - NameError: name 'undefined_variable' is not defined
+2025-10-18 00:25:10,674 - ERROR - TypeError: can only concatenate str (not "int") to str
+2025-10-18 00:25:10,674 - ERROR - ZeroDivisionError: division by zero
+2025-10-18 00:25:10,674 - ERROR - ImportError: No module named 'nonexistent_module'
+2025-10-18 00:25:10,674 - ERROR - AttributeError: 'NoneType' object has no attribute 'some_method'
+2025-10-18 00:25:10,674 - ERROR - IndexError: list index out of range
+2025-10-18 00:25:10,674 - ERROR - KeyError: 'b'
+2025-10-18 00:25:10,674 - ERROR - ValueError: invalid literal for int() with base 10: 'not_a_number'
+2025-10-18 00:25:10,674 - ERROR - AssertionError: This assertion will fail
+2025-10-18 00:25:10,674 - ERROR - FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent_file.txt'
+2025-10-18 00:25:10,674 - ERROR - PermissionError: [Errno 13] Permission denied: '/root/secret.txt'
+2025-10-18 00:25:10,674 - ERROR - OSError: [Errno 2] No such file or directory: '/nonexistent/directory'
+2025-10-18 00:25:10,674 - ERROR - OverflowError: math range error
+2025-10-18 00:25:10,674 - ERROR - RecursionError: maximum recursion depth exceeded
+2025-10-18 00:25:10,674 - ERROR - RuntimeError: Custom runtime error
+2025-10-18 00:25:10,674 - ERROR - SystemExit: Exiting with error
+2025-10-18 00:25:10,674 - ERROR - MemoryError: 
+2025-10-18 00:25:10,674 - ERROR - UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+2025-10-18 00:25:10,674 - ERROR - LookupError: 'missing'
+2025-10-18 00:25:10,674 - ERROR - ArithmeticError: integer division or modulo by zero
+2025-10-18 00:25:10,675 - ERROR - Buffer/TypeError: memoryview: invalid type for format 'i'
+2025-10-18 00:25:10,824 - ERROR - ConnectionError: [Errno -2] Name or service not known
+2025-10-18 00:25:10,925 - ERROR - TimeoutError: Simulated timeout
+2025-10-18 00:25:10,925 - ERROR - ReferenceError-like: cannot access local variable 'sys' where it is not associated with a value
+2025-10-18 00:25:10,925 - ERROR - StopIteration: 
+2025-10-18 00:25:10,925 - ERROR - GeneratorExit occurred
+2025-10-18 00:25:10,926 - ERROR - NotImplementedError: This feature is not implemented
+2025-10-18 00:25:10,926 - ERROR - UnboundLocalError: cannot access local variable 'x' where it is not associated with a value
+2025-10-18 00:25:10,926 - ERROR - EnvironmentError/KeyError: 'NONEXISTENT_VAR'
+2025-10-18 00:25:10,926 - ERROR - IOError: [Errno 20] Not a directory: '/dev/null/nonexistent'
+2025-10-18 00:25:10,928 - ERROR - EOFError: Ran out of input
+2025-10-18 00:25:10,929 - ERROR - CompressionError/FileNotFoundError: [Errno 2] No such file or directory: 'nonexistent.gz'
+2025-10-18 00:25:10,929 - ERROR - StructError: unpack requires a buffer of 4 bytes
+2025-10-18 00:25:10,929 - ERROR - FloatingPointError: math domain error
+2025-10-18 00:25:10,930 - ERROR - FutureWarning logged
+2025-10-18 00:25:10,930 - ERROR - DeprecationWarning logged
+2025-10-18 00:25:10,930 - ERROR - PendingDeprecationWarning logged
+2025-10-18 00:25:10,930 - ERROR - UserWarning logged
+2025-10-18 00:25:10,930 - ERROR - UnicodeWarning logged
+2025-10-18 00:25:10,930 - ERROR - BytesWarning logged
+2025-10-18 00:25:10,930 - ERROR - ResourceWarning logged
+2025-10-18 00:25:10,930 - ERROR - ImportWarning logged
