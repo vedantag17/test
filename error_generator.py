@@ -355,5 +355,5 @@ if __name__ == "__main__":
 
     print("Error generation complete. Check error_logs.log for logged errors.")
 
-# TODO: Operational Fix #3
-# Restart nginx with increased worker_connections from 1024 to 4096 in /etc/nginx/nginx.conf
+# TODO: Operational Fix #4
+# Fix permissions for files and directories: sudo chown -R www-data:www-data /var/www/app && sudo chmod 755 /var/www/app
