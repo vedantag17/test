@@ -359,5 +359,5 @@ if __name__ == "__main__":
 # Fix permissions for files and directories: sudo chown -R www-data:www-data /var/www/app && sudo chmod 755 /var/www/app
 
 
-# TODO: Recommendation #1
-# Install fail2ban and configure: sudo apt install fail2ban && sudo systemctl enable fail2ban
+# TODO: Recommendation #2
+# Consider implementing rate limiting for SSH connections in your SSH configuration
