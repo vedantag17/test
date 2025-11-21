@@ -359,5 +359,5 @@ if __name__ == "__main__":
 # Fix permissions for files and directories: sudo chown -R www-data:www-data /var/www/app && sudo chmod 755 /var/www/app
 
 
-# TODO: Operational Fix #1
-# Block IP address 218.188.2.4 temporarily: sudo ufw deny 218.188.2.4
+# TODO: Operational Fix #2
+# Block IP address 220-135-151-1.hinet-ip.hinet.net temporarily: sudo ufw deny 220-135-151-1.hinet-ip.hinet.net
