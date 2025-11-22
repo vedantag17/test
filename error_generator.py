@@ -359,5 +359,5 @@ if __name__ == "__main__":
 # Fix permissions for files and directories: sudo chown -R www-data:www-data /var/www/app && sudo chmod 755 /var/www/app
 
 
-# TODO: Operational Fix #1
-# Kill any processes using the Thunderbolt port: sudo lsof -ti:11 | xargs kill -9
+# TODO: Operational Fix #2
+# Restart the AirPort service: sudo systemctl restart Airport
