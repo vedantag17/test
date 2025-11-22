@@ -359,5 +359,5 @@ if __name__ == "__main__":
 # Fix permissions for files and directories: sudo chown -R www-data:www-data /var/www/app && sudo chmod 755 /var/www/app
 
 
-# TODO: Operational Fix #2
-# Restart the AirPort service: sudo systemctl restart Airport
+# TODO: Operational Fix #3
+# Adjust power management settings: sudo pmset -a sleep 0
