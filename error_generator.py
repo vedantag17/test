@@ -357,3 +357,7 @@ if __name__ == "__main__":
 
 # TODO: Operational Fix #4
 # Fix permissions for files and directories: sudo chown -R www-data:www-data /var/www/app && sudo chmod 755 /var/www/app
+
+
+# TODO: Operational Fix #4
+# Upgrade the thermal management software: sudo softwareupdate --install ThermalManagement
